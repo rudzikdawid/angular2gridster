@@ -113,9 +113,8 @@ gridsterOptions = {
 Clone or download this repository. Demo folder is dedicated nester project build on Angular CLI. To run:
 
 ```shell
-    cd demo
-    npm install
-    ng serve
+    npm run build-demo
+    npm run serve-demo
 ```
 
 Go to: http://localhost:4200/

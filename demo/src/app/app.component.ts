@@ -1,7 +1,7 @@
 import {Component, ViewChild} from '@angular/core';
-import { GridsterComponent } from './gridster/gridster.component';
-import { IGridsterOptions } from './gridster/IGridsterOptions';
-import { IGridsterDraggableOptions } from './gridster/IGridsterDraggableOptions';
+import { GridsterComponent } from 'angular2gridster/dist/gridster.component';
+import { IGridsterOptions } from 'angular2gridster/dist/IGridsterOptions';
+import { IGridsterDraggableOptions } from 'angular2gridster/dist/IGridsterDraggableOptions';
 
 @Component({
     selector: 'app-root',
